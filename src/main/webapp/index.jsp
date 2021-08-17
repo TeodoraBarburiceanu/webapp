@@ -23,7 +23,7 @@
 <body>
 
     <header>
-        <h1 class="motto_h">Divertiland Aqua Park</h1>
+        <h1 class="motto_h">DevOps Project</h1>
         <img class= "image_h" src="https://github.com/TeodoraBarburiceanu/webapp/blob/main/src/main/webapp/image1.jpg" >
     </header>
 
