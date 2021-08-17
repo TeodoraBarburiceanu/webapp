@@ -12,7 +12,7 @@
 
     <header>
         <h1 class="motto_h">Divertiland Aqua Park</h1>
-        <img class= "image_h" src="image1.jpg" >
+        <img class= "image_h" src="https://github.com/TeodoraBarburiceanu/webapp/blob/main/image1.jpg" >
     </header>
 
     <div class=" divcentral">
@@ -53,11 +53,11 @@
         </div>
     
     <div class="div_photos">
-        <img class="img" src="image1.jpg">
-        <img class="img" src="image2.jpg">
-        <img class="img" src="image3.jpg">
-        <img class="img" src="image4.jpg">
-        <img class="img" src="image5.jpg">
+        <img class="img" src="https://github.com/TeodoraBarburiceanu/webapp/blob/main/image1.jpg">
+        <img class="img" src="https://github.com/TeodoraBarburiceanu/webapp/blob/main/image2.jpg">
+        <img class="img" src="https://github.com/TeodoraBarburiceanu/webapp/blob/main/image3.jpg">
+        <img class="img" src="https://github.com/TeodoraBarburiceanu/webapp/blob/main/image4.jpg">
+        <img class="img" src="https://github.com/TeodoraBarburiceanu/webapp/blob/main/image5.jpg">
     </div>
     
     </div>
