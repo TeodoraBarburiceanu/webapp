@@ -31,19 +31,19 @@
         <div class="divsecundar">
             <ul>
                 <li class="list_secundar">
-                        <a class="link_secundar" href="https://www.divertiland.ro/" target= "blank">Home page</a>
+                        <a class="link_secundar" href="https://www.porscheengineering.com/peg/en/locations/romania/" target= "blank">Porsche Engineering</a>
                 </li>
     
                 <li class="list_secundar">
-                    <a class="link_secundar" href="https://www.divertiland.ro/stiri/" target= "blank">Info</a>
+                    <a class="link_secundar" href="https://github.com/TeodoraBarburiceanu" target= "blank">GitHub</a>
                 </li>
     
                 <li class="list_secundar">
-                    <a class="link_secundar" href="https://www.divertiland.ro/servicii/#1586948328363-22092193-905e" target= "blank">Prices</a>
+                    <a class="link_secundar" href="https://www.jenkins.io/" target= "blank">Jenkins</a>
                 </li>
     
                 <li class="list_secundar">
-                    <a class="link_secundar" href="https://www.divertiland.ro/atractii/#1586948328363-22092193-905e" target= "blank">Water Slides</a>
+                    <a class="link_secundar" href="http://tomcat.apache.org/" target= "blank">Tomcat</a>
                 </li>
     
     
